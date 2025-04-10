@@ -14,7 +14,7 @@
    username: raja
    password: raja@2021
   ```
-  ### Set Up Instructions
+### Set Up Instructions
 
 <details>
 <summary>Click to view</summary>
