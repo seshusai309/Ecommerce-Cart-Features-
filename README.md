@@ -81,47 +81,6 @@ Use these files to complete the implementation:
 - `src/components/CartSummary/index.css`
 </details>
 
-### Quick Tips
-
-<details>
-<summary>Click to view</summary>
-<br>
-
-- The `line-height` CSS property sets the height of a line box. It's commonly used to set the distance between lines of text
-
-  ```
-  line-height: 1.5;
-  ```
-
-    <br/>
-    <img src="https://assets.ccbp.in/frontend/react-js/line-height-img.png" alt="line height" style="width:90%; max-width: 600px;"/>
-
-- The array method `find()` returns the first item's value that satisfies the provided testing function. If no item is found, it returns `undefined`
-
-  **Syntax**: `arr.find(Testing Function)`
-
-</details>
-
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-
-<br/>
-
-**The following instructions are required for the tests to pass**
-
-- `BsPlusSquare`, `BsDashSquare` icons from `react-icons` should be used for **plus** and **minus** buttons in cart item
-- The Cart Item should consist of two HTML button elements with data-testid attribute values as **plus** and **minus** respectively
-- `AiFillCloseCircle` icon from react-icons should be used for **remove** button in cartItem
-- The Cart Item should consist of an HTML button element with data-testid attribute values as **remove**
-- The product image in **Cart Item** Route should have the alt as `title` of the product
-
-
-
-</details>
-
-
 > ### _Things to Keep in Mind_
 > - All components go in the `src/components` directory.
 > - **Do not remove the pre-filled code**
