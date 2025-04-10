@@ -1,5 +1,5 @@
 
-### The following project has cart features you can see them in the below video
+### The following project has cart features you can see them from the code i published
 
 ### username: rahul
 ### password: rahul@2021
