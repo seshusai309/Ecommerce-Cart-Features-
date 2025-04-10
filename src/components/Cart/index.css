@@ -1,0 +1,72 @@
+.cart-container {
+  display: flex;
+  justify-content: center;
+  min-height: 75vh;
+}
+
+@media screen and (min-width: 768px) {
+  .cart-container {
+    min-height: 90vh;
+  }
+}
+
+.cart-content-container {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  max-width: 1110px;
+}
+
+@media screen and (min-width: 768px) {
+  .cart-content-container {
+    width: 80%;
+    max-width: 1110px;
+  }
+}
+
+.cart-heading {
+  color: #3e4c59;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 700;
+}
+
+@media screen and (min-width: 768px) {
+  .cart-heading {
+    font-size: 48px;
+  }
+}
+
+/* Write your CSS here */
+
+.wala {
+  color: #3e4c59;
+}
+
+.totallengthSummary {
+  color: #616161;
+}
+
+.checkout-button {
+  padding: 10px;
+  background-color: #0b69ff;
+  color: white;
+  border-width: 0px;
+  width: 100%;
+}
+
+.checkout-container h1 {
+  color: #3e4c59;
+  font-size: 20px;
+}
+
+.checkout-container {
+  display: flex;
+  justify-content: flex-end;
+  line-height: 0.6;
+}
+
+.checkout-container span {
+  font-size: 30px;
+  color: #3e4c59;
+}
